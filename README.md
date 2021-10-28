@@ -18,3 +18,4 @@ This is a list of resources for Ender 3 & Ender 3 pro 3D printers. Useful resour
 
 ### Misc ###
 * [**Ender 3 sub-reddit**](https://www.reddit.com/r/ender3/) A good place to find information about anything related to the Ender 3 from setup, to help with your prints, to showing off some of your creations. You can ask questions, look for advice, post about issues, and search for suggestions.
+* [**Upgrade Kit**](https://www.amazon.com/dp/B08G8MJ592/ref=cm_sw_r_tw_dp_4Y9EQ4ZC96DA383YJSX2) Premium Dual Gear Extruder Upgrade Kit.
