@@ -11,7 +11,9 @@ This is a list of resources for Ender 3 & Ender 3 pro 3D printers. Useful resour
 
 ### Mods ###
 * [**Filament Guide**](https://www.thingiverse.com/thing:3712330) Single print filament guide. 
-* [**Display Box**](https://www.thingiverse.com/thing:4048695) Backcover for the display. 
+* [**Display Box**](https://www.thingiverse.com/thing:4048695) Backcover for the display.
+* [**Raspberry Pi Mount**](https://www.thingiverse.com/thing:4751688) Raspberry Pi 3 case mount specially useful if you are using Octoprint.
+* [**Cable Chain**](https://www.thingiverse.com/thing:3769941) Cable chain, no screws.
 
 ### Tutorials ###
 * [**How to Assemble Creality Ender 3?**](https://letsprint3d.net/how-to-assemble-creality-ender-3/) Step by step instructions for assembling your 3D printer.
